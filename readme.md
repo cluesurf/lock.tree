@@ -12,7 +12,7 @@
 
 <h3 align='center'>door.link</h3>
 <p align='center'>
-  The Base Link Security Framework
+  The BaseLink Security Framework
 </p>
 
 <br/>
