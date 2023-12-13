@@ -12,7 +12,7 @@
 
 <h3 align='center'>door.note</h3>
 <p align='center'>
-  The BaseLink Security Framework
+  The BaseNote Security Framework
 </p>
 
 <br/>
