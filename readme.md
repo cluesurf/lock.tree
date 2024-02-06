@@ -7,12 +7,12 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/termsurf/door.note/blob/make/view/view.svg?raw=true' height='256'>
+  <img src='https://github.com/termsurf/door.leaf/blob/make/view/view.svg?raw=true' height='256'>
 </p>
 
-<h3 align='center'>door.note</h3>
+<h3 align='center'>door.leaf</h3>
 <p align='center'>
-  The BaseNote Security Framework
+  The SeedLeaf Security Framework
 </p>
 
 <br/>
