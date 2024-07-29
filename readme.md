@@ -6,13 +6,9 @@
 <br/>
 <br/>
 
-<p align='center'>
-  <img src='https://github.com/termsurf/lock.tree/blob/make/view/view.svg?raw=true' height='256'>
-</p>
-
 <h3 align='center'>lock.tree</h3>
 <p align='center'>
-  The Star Security Framework
+  The NoteTree Security Framework
 </p>
 
 <br/>
